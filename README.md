@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![hihunjin's github metrics](https://github.com/hihunjin/hihunjin/blob/master/github-metrics.svg)
+![hihunjin's github metrics](https://github.com/hihunjin/hihunjin/blob/main/github-metrics.svg)
